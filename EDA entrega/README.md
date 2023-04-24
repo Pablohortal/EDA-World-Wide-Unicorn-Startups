@@ -33,7 +33,8 @@ He usado un dataset de Kaggle de las [startup que han llegado a convertirse en u
 Para probar las anteriores hipotesis utilicé las siguientes librerias:
 
 
-![image.png](attachment:image.png)
+<img src = 'fotos readme/librerias.png'>
+
 
 
 Junto a las siguientes pruebas estadísticas: 
